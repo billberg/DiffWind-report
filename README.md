@@ -1,4 +1,4 @@
 # DiffWind-report
-DiffWind量化模型评估报告，量化价值投资  
+DiffWind量化投资，统计报告  
 DiffWind@雪球：  
 https://xueqiu.com/u/1776991309
